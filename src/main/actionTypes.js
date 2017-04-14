@@ -1,0 +1,6 @@
+export const SPACE_CREATED = 'SPACE_CREATED'
+export const SPACE_UPDATED = 'SPACE_UPDATED'
+export const SPACE_DELETED = 'SPACE_DELETED'
+export const APP_CREATED = 'APP_CREATED'
+export const APP_UPDATED = 'APP_UPDATED'
+export const APP_DELETED = 'APP_DELETED'
